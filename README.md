@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Muhammed Naseef (Naseef TK)
+# 👋 Hi, I’m Muhammed Naseef TK
 
 💻 **Full-Stack .NET Developer** | Passionate about building scalable, high-performance web applications using **.NET Core**, **React**, and **SQL Server**
 
